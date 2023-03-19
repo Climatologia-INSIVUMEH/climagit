@@ -39,7 +39,7 @@ O más facil puede clonar un repositorio de git como ejemplo puede clonar el sig
 
 Listo! 
 
-Ahora puede entrar a la carpeta Gasbot y ejectura el comando:
+Ahora puede entrar a la carpeta *climagit* y ejecutar el comando:
 	git pull 
 	
 El mensaje que le tiene que dar es: El repositorio ya está actualizado. Y si revisa las llaves ssh en la página le aparecerá de color verde. 
