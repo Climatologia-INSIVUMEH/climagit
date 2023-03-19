@@ -75,28 +75,28 @@ Comandos importantes:
 Otros comandos importantes son que si se quiere crear un nuevo repositorio puede hacerlo desde la interfaz web de github y luego ejectura en la carpeta local: 
 
 
-git init 
+	git init 
 
 Esta función se utiliza para iniciar un nuevo repositorio de Git en el directorio actual. 
 
 
-git add . 
+	git add . 
 
 Esta función se utiliza para agregar todos los archivos nuevos o modificados al área de preparación de Git. El punto (.) en la función indica que todos los archivos deben ser agregados. 
 
-git commit -m 'comentario' 
+	git commit -m 'comentario' 
 
 Esta función se utiliza para confirmar los cambios agregados en el área de preparación.
 
-git branch -M master 
+	git branch -M master 
 
  Esta función se utiliza para cambiar el nombre de la rama actual del repositorio a "master".
 
-git remote add origin git@github.com:Climatologia-INSIVUMEH/prueba.git
+	git remote add origin git@github.com:Climatologia-INSIVUMEH/prueba.git
 
 Esta función se utiliza para agregar un repositorio remoto a Git. En este caso, se agrega un repositorio remoto llamado "origin" que está alojado en GitHub y cuyo nombre es "Climatologia-INSIVUMEH/prueba.git".
 
-git push -u origin master 
+	git push -u origin master 
 
 Esta función se utiliza para enviar los cambios confirmados al repositorio remoto en GitHub.
 
