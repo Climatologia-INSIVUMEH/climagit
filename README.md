@@ -1,4 +1,4 @@
-# climagit
+# CLIMAGIT
 
 Guía basica de primeros pasos en Github. 
 Creado por Peter Argueta
