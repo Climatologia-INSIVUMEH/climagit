@@ -35,7 +35,7 @@ Puede crear un nuevo repositorio con git init (buscar los comandos de git)
 
 O más facil puede clonar un repositorio de git como ejemplo puede clonar el siguiente 
 	
-	git clone git@github.com:PeterArgueta/Gasbot.git
+	git clone git@github.com:Climatologia-INSIVUMEH/climagit.git
 
 Listo! 
 
