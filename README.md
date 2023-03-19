@@ -22,8 +22,8 @@ git config --global user.email "youremail@yourdomain.com"
 
 Ejemplo 
 
-	git config --global user.name PeterArgueta
-	git config --global user.email peterarguedo@gmail.com
+	git config --global user.name PedroPicapiedra
+	git config --global user.email pedropicapiedra@gmail.com
 
 
 Para confirmar que se han guardado estas configuraciones puede usar el siguiente comando: 
