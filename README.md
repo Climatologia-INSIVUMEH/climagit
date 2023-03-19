@@ -1,7 +1,6 @@
 # CLIMAGIT
 
-Guía basica de primeros pasos en Github. 
-Creado por Peter Argueta
+Guía basica de primeros pasos en Github (Linux)
 
 Instalar git en su computadora 
 
