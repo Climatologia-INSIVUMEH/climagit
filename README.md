@@ -12,7 +12,7 @@ En su cuenta en la dirección https://github.com/
 		-New SSH key 
 			En el titulo puede ser cualquier nombre y en las opciones de tipo que sea una llave de autenticación. 
 
-En su computadora ir a /home/cdc/.ssh y copiar su llave pública (si no cuenta generarla con $ssh keygen). Luego esta se debe de pegar en el apartado siguiente al titulo en la página de ssh key. 
+En su computadora ir a /home/cdc/.ssh y copiar su llave pública (si no cuenta generarla con `$ssh keygen`). Luego esta se debe de pegar en el apartado siguiente al titulo en la página de ssh key. 
 
 Para configurar las credenciales se deben de ingresar las variables globales.
 
